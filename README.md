@@ -1,5 +1,12 @@
-# CgGraphqlFrontend
+# Frontend for coding guild graphQL
 
+If Angular CLI isn't installed run: npm install -g @angular/cli
+
+To start the first time:
+npm install 
+ng serve
+
+--------------
 This project was generated with [Angular CLI](https://github.com/angular/angular-cli) version 6.1.5.
 
 ## Development server
